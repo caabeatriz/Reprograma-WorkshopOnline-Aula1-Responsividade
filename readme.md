@@ -1,4 +1,4 @@
-# Workshop Online - Aula 1 - Web responsivo
+# Curso Online - Aula 1 - Web responsivo
 
 ### Design Responsivo, o que é ?
 Design responsivo nada mais é, do que o site estar adaptado em várias telas e tentar atingir o máximo de dispositivos possíveis.
